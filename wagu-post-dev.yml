@@ -1,5 +1,5 @@
 server:
-	port:8081
+	port: 8081
 	
 spring:
 	application:
@@ -7,8 +7,8 @@ spring:
 	cloud:
 		config:
 		discovery:
-			enable:true
-			service-id:wagu-config
+			enable: true
+			service-id: wagu-config
 
 hsyou:
 	test:
