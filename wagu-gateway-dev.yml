@@ -1,4 +1,3 @@
 zuul:
  routes:
-  wagu-post: /api/**
- strip-prefix: false
+  wagu-post: /api/post/**
