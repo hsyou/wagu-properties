@@ -8,3 +8,6 @@ spring:
 		discovery:
 			enable:true
 			service-id:wagu-config
+
+test:
+	key: hello
