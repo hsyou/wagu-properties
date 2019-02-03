@@ -9,5 +9,6 @@ spring:
 			enable:true
 			service-id:wagu-config
 
-test:
-	key: hello
+hsyou:
+	test:
+		key: hello
