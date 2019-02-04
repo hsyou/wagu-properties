@@ -9,6 +9,12 @@ spring:
     enable: true
     service-id: wagu-config
 
-hsyou:
- test:
-  key: hello
+zookeeper:
+ host: localhost:2181
+ groupId: wagu
+
+kafka:
+ topic:
+  post: post
+ bootstrap:
+  servers: localhost:9092
