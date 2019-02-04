@@ -18,3 +18,5 @@ kafka:
   post: post
  bootstrap:
   servers: localhost:9092
+ consumer:
+  group-id: post-group
